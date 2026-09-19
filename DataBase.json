@@ -1,0 +1,4 @@
+[
+  { "title": "Test1", "capacity": 10, "cost": 100, "description": "If all goes well, this should appear", "group": "fc" },
+  { "title": "Test2", "capacity": 100, "cost": 1, "description": "Ditto for test1", "group": "os" }
+] 
