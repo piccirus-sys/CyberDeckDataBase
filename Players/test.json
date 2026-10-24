@@ -1,0 +1,11 @@
+{
+  "capValue": 110,
+  "cap2OffsetPct": 20,
+  "secondCap": true,
+  "itemOverrides": {
+    "FC Item 1": { "capacity": 8, "cost": 50 }
+  },
+  "extraItems": [
+    { "title": "PT", "capacity": 5, "cost": 0, "description": "Test", "group": "fc" }
+  ]
+}
