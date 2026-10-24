@@ -6,6 +6,8 @@
     "FC Item 1": { "capacity": 8, "cost": 50 }
   },
   "extraItems": [
-    { "title": "PT", "capacity": 5, "cost": 0, "description": "Test", "group": "fc" }
-  ]
+    { "title": "Prototype Chip", "capacity": 5, "cost": 0, "description": "GM gift", "group": "fc" }
+  ],
+  "modules": ["loadout"]
 }
+
